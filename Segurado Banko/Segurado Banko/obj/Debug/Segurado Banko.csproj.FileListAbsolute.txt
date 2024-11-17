@@ -1,0 +1,20 @@
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\bin\Debug\Segurado Banko.exe.config
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\bin\Debug\Segurado Banko.exe
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\bin\Debug\Segurado Banko.pdb
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado Banko.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.Form1.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.Onboarding1.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.Opening.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado Banko.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado Banko.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado Banko.exe
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado Banko.pdb
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.load.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.Login.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.Onboarding2.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.Onboarding3.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.ChangePassword.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.ForgotPassword.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.HomeScreen.resources
+C:\Users\Lenovo\Desktop\Segurado Banko\Segurado Banko\obj\Debug\Segurado_Banko.Registration.resources
